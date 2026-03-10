@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1682687982501-1e58b814714c?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Subsea Signals | Anandhu Prakash - Ocean Technology" style="border-radius: 15px;" />
+![Subsea Signals Header](https://capsule-render.vercel.app/api?type=waving&color=004d99&height=250&section=header&text=Subsea%20Signals&fontSize=60&fontColor=ffffff&desc=Automotive%20to%20Marine%20Robotics&descAlignY=70&descAlign=50)
+
 
 <br/>
 <br/>
@@ -47,11 +48,17 @@ I am documenting my entire journey from optimizing automotive safety systems to 
 
 <hr/>
 
+
 ## 📊 Contribution Voyager
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=goldr0g3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anandhu's GitHub Stats" height="192px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-languages?username=goldr0g3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Anandhu's Top Languages" height="192px" />
+    
+[![Anandhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldr0g3r&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/goldr0g3r)
+
+[![Anandhu's Top Languages](https://github-readme-stats.vercel.app/api/top-languages?username=goldr0g3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/goldr0g3r)
+
+[![Anandhu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goldr0g3r&theme=tokyonight&hide_border=true)](https://github.com/goldr0g3r)
+
 </div>
 
 <hr/>
