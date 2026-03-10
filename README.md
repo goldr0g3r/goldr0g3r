@@ -50,6 +50,6 @@ Currently, I am expanding my expertise into hardware design, AI/ML for underwate
 
 - **Portfolio & Blog:** [subseasignals.com](https://subseasignals.com)
 - **GitHub:** [github.com/goldr0g3r](https://github.com/goldr0g3r)
-- **LinkedIn:** [linkedin.com/in/anandhu-prakash](https://linkedin.com/in/anandhu-prakash) *(Be sure to check if this URL matches your actual LinkedIn!)*
-- **Email:** [Insert your email here]
+- **LinkedIn:** [linkedin.com/in/anandhu-prakash](https://linkedin.com/in/anandhu-prakash)
+- **Email:** info@subseasignals.com
 - **YouTube:** *Subsea Signals Channel (Coming Soon!)*
