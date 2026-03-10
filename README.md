@@ -1,8 +1,8 @@
-
 <div align="center">
 
-<img src="image_0.png" width="100%" alt="Subsea Signals | Anandhu Prakash - Profile Header showing futuristic ROV and digital PCB traces" />
+<img src="https://images.unsplash.com/photo-1682687982501-1e58b814714c?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Subsea Signals | Anandhu Prakash - Ocean Technology" style="border-radius: 15px;" />
 
+<br/>
 <br/>
 
 <h1>👋 Welcome to the Digital Deep Sea. I'm Anandhu Prakash.</h1>
@@ -40,7 +40,7 @@ I am documenting my entire journey from optimizing automotive safety systems to 
 
 | Sector | Core Competencies | Tools & Frameworks |
 | :--- | :--- | :--- |
-| **Marine Robotics & ROV** | `ROV Piloting` `Subsea Acoustics` `Hydraulics` `High-Voltage Systems` | <imgsrc="https://img.shields.io/badge/Horizon%20Geosciences-Trained-blue" alt="Horizon Geosciences trained" /> <imgsrc="https://img.shields.io/badge/BlueRobotics-ArduSub-blue" alt="ArduSub" /> <imgsrc="https://img.shields.io/badge/OpenCV-RobotVision-5C3EE8" alt="OpenCV" /> |
+| **Marine Robotics & ROV** | `ROV Piloting` `Subsea Acoustics` `Hydraulics` `High-Voltage Systems` | <img src="https://img.shields.io/badge/Horizon%20Geosciences-Trained-blue" alt="Horizon Geosciences trained" /> <img src="https://img.shields.io/badge/BlueRobotics-ArduSub-blue" alt="ArduSub" /> <img src="https://img.shields.io/badge/OpenCV-RobotVision-5C3EE8" alt="OpenCV" /> |
 | **Embedded & Hardware** | `PCB Design` `Circuit Simulation` `Firmware (C/C++)` `CAN Bus` | <img src="https://img.shields.io/badge/KiCad-314CB6?logo=kicad&logoColor=white" alt="KiCad" /> <img src="https://img.shields.io/badge/Altium-A5A5A5?logo=altium&logoColor=white" alt="Altium Designer" /> <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" /> |
 | **AI/ML & Data** | `Underwater Object Detection` `Image De-hazing` `NVIDIA Jetson` | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros&logoColor=white" alt="ROS2" /> |
 | **Full Stack & Web** | `Headless CMS` `Static Site Generation` `Deployment` | <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="NextJS" /> <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/WordPress-Headless-21759B?logo=wordpress&logoColor=white" alt="WordPress" /> |
